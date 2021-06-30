@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "stock management backend",
+  "main": "app.js",
+  "repository": "https://gitlab.com/amin.aimeur/manage-stock.git",
+  "author": "amin",
+  "license": "MIT"
+}
